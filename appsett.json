@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "DbGastroAdminConnection": "Server=localhost\\SQLEXPRESS;Database=GastroAdmin;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}
+  
+  
+  
